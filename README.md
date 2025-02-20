@@ -87,6 +87,4 @@ Optimal Strategy: The AI chooses the move that guarantees the best possible outc
 
 ---
 **Future Improvements**
-Add sound effects and animations for moves.
-Include difficulty levels by adjusting the depth of the minimax algorithm.
-Add a two-player mode.
+I've made this game as part of a learning project. Feel free to add any additional features that you find suitable like adding sound effects and animations for moves. Including difficulty levels by adjusting the depth of the minimax algorithm. adding a two-player mode etc.
